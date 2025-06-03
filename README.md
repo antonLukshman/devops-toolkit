@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# Devops Toolkit
-=======
 # DevOps Toolkit 🚀
->>>>>>> Stashed changes
 
 A comprehensive collection of production-ready shell scripts designed to automate critical DevOps operations including deployment, monitoring, backup, server management, and SSL certificate handling.
 
@@ -214,15 +210,6 @@ mkdir -p logs
 # Optimize database tables
 ./scripts/database/db-operations.sh optimize -d myapp_db
 
-<<<<<<< Updated upstream
-This project is licensed under the MIT License. See the LICENSE file for details.
-
- ## Author
-Anton Lucshman
-
-GitHub: @AntonLucshman
-LinkedIn: Anton Lucshman
-=======
 # Database backup
 ./scripts/database/db-operations.sh backup -d myapp_db
 
@@ -415,9 +402,9 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Test scripts in multiple environments
 
-<!-- ## 📄 License
+## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
@@ -452,4 +439,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you find this project useful, please consider giving it a star!**
 
 Built with ❤️ by Anton Luckshman for the DevOps community
->>>>>>> Stashed changes
