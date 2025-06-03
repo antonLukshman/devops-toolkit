@@ -1,4 +1,4 @@
-# DevOps Automation Scripts
+# Devops Toolkit
 
 This project contains a collection of shell scripts designed to automate various DevOps tasks, including deployment, monitoring, backup, and server management. The scripts are organized into different directories based on their functionality.
 
